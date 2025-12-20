@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
   </body>`)
 });
 const channelId = '1451676547512668415';
-const guildId = '1011820688228765828'; 
+const guildId = '1451676547512668415'; 
 const Url = 'https://youtu.be/fLkdQeeRtYs?si=02zwuFdQbytcD09f'; 
 
 client.on('ready', () => {
